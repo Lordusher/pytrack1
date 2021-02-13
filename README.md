@@ -1,2 +1,2 @@
 # pytrack1
-beginners project to set up a pycom IoT tracking device
+This is my totally beginners project to set up a pycom IoT tracking device. Let's see how it goes...
